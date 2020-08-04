@@ -1,7 +1,7 @@
 ﻿# socket.io-chat
-<img src="1.jpg" alt="Girl in a jacket" width="500" height="400">
+<img src="1.jpg" alt="Girl in a jacket">
 <br>
-<img src="2.jpg" alt="Girl in a jacket" width="500" height="400">
+<img src="2.jpg" alt="Girl in a jacket" >
 <br>
-<img src="3.jpg" alt="Girl in a jacket" width="500" height="400">
+<img src="3.jpg" alt="Girl in a jacket" >
 
